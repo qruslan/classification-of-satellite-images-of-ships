@@ -10,6 +10,6 @@ Stack: python, numpy, pandas, matplotlib, tensorflow, keras
 
 Лучший результат показали:
     
-    - ResNet50v2   acc = 0.9925
+- ResNet50v2   acc = 0.9925
     
-    - DenseNet169  acc = 0.9950
+- DenseNet169  acc = 0.9950
