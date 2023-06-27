@@ -9,5 +9,7 @@ Stack: python, numpy, pandas, matplotlib, tensorflow, keras
 Все модели предобучены на наборе данных ImageNet.
 
 Лучший результат показали:
+    
     - ResNet50v2   acc = 0.9925
+    
     - DenseNet169  acc = 0.9950
